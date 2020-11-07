@@ -7,7 +7,7 @@ package cv_ejercicio;
 
 /**
  *
- * @author Sergio López
+ * @author Jhon_G
  */
 public class Cv_ejercicio {
 
